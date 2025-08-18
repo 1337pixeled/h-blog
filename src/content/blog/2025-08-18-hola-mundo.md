@@ -3,7 +3,7 @@ author: Marc
 pubDatetime: 2025-08-18
 modDatetime: 2025-08-18
 title: Hola Mundo
-ogImage: garrinet.webp
+ogImage: Hola Mundo
 slug: hola-mundo
 featured: false
 draft: false
