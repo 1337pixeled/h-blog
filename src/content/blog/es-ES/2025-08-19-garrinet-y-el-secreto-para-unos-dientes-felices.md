@@ -4,7 +4,7 @@ pubDatetime: 2025-08-20
 modDatetime: 2025-08-20
 title: Garrinet y el secreto para unos dientes felices
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet5.webp
-slug: 2025-08-20-garrinet-y-el-secreto-para-unos-dientes-felices
+slug: 2025-08-19-garrinet-y-el-secreto-para-unos-dientes-felices
 featured: false
 draft: false
 description: Garrinet, el cerdito, sabe que para tener una sonrisa bonita y unos
