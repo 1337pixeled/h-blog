@@ -4,7 +4,7 @@ pubDatetime: 2025-08-21
 modDatetime: 2025-08-21
 title: Garrinet y el cuidado especial de la boca
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet6.webp
-slug: garrinet-y-el-cuidado-especial-de-la-boca
+slug: 2025-08-21-garrinet-y-el-cuidado-especial-de-la-boca
 featured: false
 draft: false
 description: Garrinet, el cerdito, sabe que cuidar la boca es muy importante
