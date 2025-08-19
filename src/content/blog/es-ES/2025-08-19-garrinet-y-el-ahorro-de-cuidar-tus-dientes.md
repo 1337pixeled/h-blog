@@ -4,7 +4,7 @@ pubDatetime: 2025-08-22
 modDatetime: 2025-08-22
 title: Garrinet y el ahorro de cuidar tus dientes
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet7.webp
-slug: 2025-08-22-garrinet-y-el-ahorro-de-cuidar-tus-dientes
+slug: 2025-08-19-garrinet-y-el-ahorro-de-cuidar-tus-dientes
 featured: false
 draft: false
 description: Garrinet, el cerdito sabio, siempre dice que cuidar bien los
