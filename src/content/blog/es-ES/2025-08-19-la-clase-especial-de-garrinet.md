@@ -10,8 +10,6 @@ draft: false
 description: "Era una oportunidad única: ¡los alumnos querían aprender
   directamente de él cómo cuidar sus dientes!"
 ---
-## **"La Clase Especial de Garrinet"**
-
 Unos días después de su visita a Riudarenes, **Garrinet** recibió una invitación para dar una clase especial en una escuela de Barcelona. Era una oportunidad única: ¡los alumnos querían aprender directamente de él cómo cuidar sus dientes!
 
 Con su bata blanca, su boina roja y su enorme sonrisa, Garrinet llegó a la clase con una maqueta de dientes, varios cepillos y muchas ganas de enseñar. Los niños se sentaron en círculo mientras él decía:
