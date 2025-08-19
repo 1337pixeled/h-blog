@@ -4,7 +4,7 @@ pubDatetime: 2025-08-20
 modDatetime: 2025-08-20
 title: Garrinet i el secret per a unes dents felices
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet5.webp
-slug: garrinet-i-el-secret-per-a-unes-dents-felices
+slug: 2025-08-20-garrinet-i-el-secret-per-a-unes-dents-felices
 featured: false
 draft: false
 description: Garrinet, el porquet, sap que per tenir un somriure bonic i unes
