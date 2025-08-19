@@ -4,7 +4,7 @@ pubDatetime: 2025-08-18
 modDatetime: 2025-08-18
 title: "The Story of Garrinet: The Guardian of the Healthy Smile"
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet.webp
-slug: 2025-08-18-the-story-of-garrinet
+slug: 2025-08-18-the-story-of-garrinet-the-guardian-of-the-healthy-smile
 featured: false
 draft: false
 description: In a small corner of Catalonia, where the mountains meet the sea
