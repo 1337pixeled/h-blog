@@ -4,7 +4,7 @@ pubDatetime: 2025-08-18
 modDatetime: 2025-08-18
 title: "La Historia de Garrinet: El Guardián de la Sonrisa Saludable"
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet.webp
-slug: la-historia-de-garrinet
+slug: 2025-08-18-la-historia-de-garrinet
 featured: false
 draft: false
 tags:
