@@ -4,7 +4,7 @@ pubDatetime: 2025-08-21
 modDatetime: 2025-08-21
 title: Garrinet and special oral care
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet6.webp
-slug: garrinet-and-special-oral-care
+slug: 2025-08-19-garrinet-and-special-oral-care
 featured: false
 draft: false
 description: Garrinet, the little pig, knows that taking care of your mouth is
