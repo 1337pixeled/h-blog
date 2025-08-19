@@ -4,7 +4,7 @@ pubDatetime: 2025-08-20
 modDatetime: 2025-08-20
 title: Garrinet and the secret to happy teeth
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet5.webp
-slug: garrinet-and-the-secret-to-happy-teeth
+slug: 2025-08-19-garrinet-and-the-secret-to-happy-teeth
 featured: false
 draft: false
 description: Garrinet, the little pig, knows that to have a beautiful smile and
