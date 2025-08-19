@@ -4,7 +4,7 @@ pubDatetime: 2025-08-19
 modDatetime: 2025-08-19
 title: La confiança per somriure al món sense por! 😁
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet2.webp
-slug: la-confiança-per-somriure-al-mon-sense-por
+slug: 2025-08-19-la-confiança-per-somriure-al-mon-sense-por
 featured: false
 draft: false
 description: "Després de recórrer Catalunya de dalt a baix compartint consells
