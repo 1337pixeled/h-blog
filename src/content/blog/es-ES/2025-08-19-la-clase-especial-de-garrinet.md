@@ -4,7 +4,7 @@ pubDatetime: 2025-08-19
 modDatetime: 2025-08-19
 title: '"La Clase Especial de Garrinet"'
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet3.webp
-slug: la-clase-especial-de-garrinet
+slug: 2025-08-19-la-clase-especial-de-garrinet
 featured: false
 draft: false
 description: "Era una oportunidad única: ¡los alumnos querían aprender
