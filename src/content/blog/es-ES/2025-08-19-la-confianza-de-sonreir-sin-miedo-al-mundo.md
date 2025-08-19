@@ -4,7 +4,7 @@ pubDatetime: 2025-08-19
 modDatetime: 2025-08-19
 title: ¡La confianza de sonreír sin miedo al mundo! 😁
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet2.webp
-slug: la-confianza-de-sonreir-sin-miedo-al-mundo
+slug: 2025-08-19-la-confianza-de-sonreir-sin-miedo-al-mundo
 featured: false
 draft: false
 description: "Después de recorrer Cataluña de punta a punta compartiendo
