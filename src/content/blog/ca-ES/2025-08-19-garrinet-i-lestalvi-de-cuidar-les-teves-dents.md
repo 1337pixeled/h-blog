@@ -4,7 +4,7 @@ pubDatetime: 2025-08-22
 modDatetime: 2025-08-22
 title: Garrinet i l'estalvi de cuidar les teves dents
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet7.webp
-slug: garrinet-i-lestalvi-de-cuidar-les-teves-dents
+slug: 2025-08-22-garrinet-i-lestalvi-de-cuidar-les-teves-dents
 featured: false
 draft: false
 description: Garrinet, el porquet savi, sempre diu que cuidar bé les dents no
