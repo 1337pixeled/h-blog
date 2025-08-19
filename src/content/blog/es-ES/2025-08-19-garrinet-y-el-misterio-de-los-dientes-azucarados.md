@@ -4,7 +4,7 @@ pubDatetime: 2025-08-20
 modDatetime: 2025-08-20
 title: '"Garrinet y el Misterio de los Dientes Azucarados"'
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet4.webp
-slug: garrinet-y-el-misterio-de-los-dientes-azucarados
+slug: 2025-08-20-garrinet-y-el-misterio-de-los-dientes-azucarados
 featured: false
 draft: false
 description: "Garrinet notó algo preocupante: algunos niños aún tenían caries a
