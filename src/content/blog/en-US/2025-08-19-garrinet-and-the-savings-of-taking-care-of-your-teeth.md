@@ -4,7 +4,7 @@ pubDatetime: 2025-08-22
 modDatetime: 2025-08-22
 title: Garrinet and the savings of taking care of your teeth
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet7.webp
-slug: garrinet-and-the-savings-of-taking-care-of-your-teeth
+slug: 2025-08-19-garrinet-and-the-savings-of-taking-care-of-your-teeth
 featured: false
 draft: false
 description: Garrinet, the wise little pig, always says that taking good care of
