@@ -4,7 +4,7 @@ pubDatetime: 2025-08-19
 modDatetime: 2025-08-19
 title: 🐷 Garrinet and the Brave Teeth Adventure 🦷
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet2.webp
-slug: garrinet-and-the-brave-teeth-adventure
+slug: 2025-08-19-garrinet-and-the-brave-teeth-adventure
 featured: false
 draft: false
 description: "After traveling all across Catalonia sharing tips about oral
