@@ -4,7 +4,7 @@ pubDatetime: 2025-08-20
 modDatetime: 2025-08-20
 title: '"Garrinet and the Sugary Tooth Mystery"'
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet4.webp
-slug: garrinet-and-the-sugary-tooth-mystery
+slug: 2025-08-19-garrinet-and-the-sugary-tooth-mystery
 featured: false
 draft: false
 description: "Garrinet noticed something strange: some kids still had cavities,
