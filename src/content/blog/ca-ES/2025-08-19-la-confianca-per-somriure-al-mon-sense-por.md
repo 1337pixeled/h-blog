@@ -12,7 +12,7 @@ description: "Després de recórrer Catalunya de dalt a baix compartint consells
   pas més enllà. Va ser llavors quan HIDES Catalunya li va fer una proposta molt
   especial: convertir-se en l’higienista dental oficial de les escoles."
 ---
-## 🐷 **Català – Garrinet i l’Aventura de les Dents Valentes** 🦷
+## 🐷 **Garrinet i l’Aventura de les Dents Valentes** 🦷
 
 Després de recórrer Catalunya de dalt a baix compartint consells sobre la higiene bucodental, en **Garrinet** va decidir portar la seva missió un pas més enllà. Va ser llavors quan **HIDES Catalunya** li va fer una proposta molt especial: convertir-se en **l’higienista dental oficial de les escoles**.
 
