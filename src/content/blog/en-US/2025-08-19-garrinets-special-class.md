@@ -4,7 +4,7 @@ pubDatetime: 2025-08-19
 modDatetime: 2025-08-19
 title: '"Garrinet’s Special Class"'
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet3.webp
-slug: garrinets-special-class
+slug: 2025-08-19-garrinets-special-class
 featured: false
 draft: false
 description: "It was a unique opportunity: the students wanted to learn directly
