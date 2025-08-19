@@ -4,7 +4,7 @@ pubDatetime: 2025-08-20
 modDatetime: 2025-08-20
 title: '"En Garrinet i el Misteri de les Dents Ensucrades"'
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet4.webp
-slug: 2025-08-20-en-garrinet-i-el-misteri-de-les-dents-ensucrades
+slug: 2025-08-19-en-garrinet-i-el-misteri-de-les-dents-ensucrades
 featured: false
 draft: false
 description: "Garrinet va notar una cosa preocupant: alguns nens encara tenien
