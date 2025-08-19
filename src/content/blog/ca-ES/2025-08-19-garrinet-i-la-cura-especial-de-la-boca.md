@@ -4,7 +4,7 @@ pubDatetime: 2025-08-21
 modDatetime: 2025-08-21
 title: Garrinet i la cura especial de la boca
 ogImage: https://raw.githubusercontent.com/1337pixeled/h-blog/main/public/assets/garrinet6.webp
-slug: garrinet-i-la-cura-especial-de-la-boca
+slug: 2025-08-21-garrinet-i-la-cura-especial-de-la-boca
 featured: false
 draft: false
 description: Garrinet, el porquet, sap que cuidar la boca és molt important per
